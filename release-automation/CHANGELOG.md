@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/eclipse-tractusx/sig-release/compare/v1.2.0...v1.2.1) (2025-09-15)
+
+
+### Features
+
+* add checks for TRG 1-05, TRG 1-06, TRG 7-07 ([#1517](https://github.com/eclipse-tractusx/sig-release/issues/1517)) ([cd51776](https://github.com/eclipse-tractusx/sig-release/commit/cd51776a63263a856a38049a8333a75397be10ba))
+
 ## [1.2.0](https://github.com/eclipse-tractusx/sig-release/compare/v1.1.0...v1.2.0) (2024-04-18)
 
 
